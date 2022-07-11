@@ -1,0 +1,194 @@
+body{
+    background-color: #F0F3F6;
+}
+
+.jumbocard {
+    background-color: #020F1C;
+    opacity: 75%;
+    border: none;
+    border-radius: 0;
+    margin-top: 3rem;
+}
+
+.top-nav{
+    background-color: #166498;
+}
+
+.bottom-nav{
+    background-color: #2279b0;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: white;
+    opacity: 100%;
+}
+
+.bg-img{
+    border: none;
+    border-radius: 0;
+}
+
+.my-card-img{
+    border-radius: 0;
+}
+
+.jumbo-title{
+    font-size: 2.5rem;
+}
+
+.jumbo-card-text{
+    font-size: 1.2rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+
+.my-btn{
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.latest-news-card {
+    margin-top: 3rem;
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, .2);
+    border: none;
+}
+
+.latest-news{
+    padding: 2rem;
+}
+
+#latest-title{
+    color: #65686B;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.news-card{
+    border:none;
+    color: black;
+}
+
+.news-card:hover {
+    cursor: pointer;
+}
+
+.latest-footer {
+    background-color: #E36B0D;
+    border-bottom-left-radius: .25rem;
+    border-bottom-right-radius: .25rem;
+    margin-bottom: -1px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    padding: 1rem;
+}
+
+.no-pad {
+    padding-right: 0;
+}
+
+.spacer {
+    height: 30rem;
+}
+
+.email-container {
+    background-color: #666665;
+    padding: 2rem;
+    margin-right: 0;
+    margin-top: 3rem;
+}
+
+.email-input {
+    width:80%;
+}
+
+.email-blurb {
+    color: white;
+    font-size: 1.5rem;
+}
+
+.signup-btn {
+    background-color: #E36B0D;
+    color: white;
+    font-size: 120%;
+    font-weight: bold;
+    width: 20%;
+}
+
+.signup-btn:hover {
+    color: white;
+    transition: .3s;
+    opacity: 80%;
+}
+
+
+.signup-box {
+    margin: 1rem;
+}
+
+.footer {
+    background-color: #292828;
+    width: 100%;
+    --bs-gutter-x: 0;
+    padding: 2rem 0;
+}
+
+.card-img-overlay {
+    padding: 0;
+}
+
+.row{
+    margin-right: 0;
+}
+
+.footer-title {
+    font-weight: 700;
+    font-size: 1.3rem;
+}
+
+.footer-subtitle {
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1;
+    margin-bottom: 2rem;
+}
+
+.line {
+    background-color: #666665;
+    height: 1px;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.links-etc {
+    margin-bottom: 1rem;
+    font-size: .85rem;
+    color: #A9A9A8;
+}
+
+#mail-icon-box{
+    margin: 1rem auto;
+}
+
+#mail-icon {
+    width: 5rem;
+    margin: 0 auto;
+}
+
+.latest-footer-text:hover {
+    cursor: pointer;
+}
+
+#footer-img {
+    width: 5rem;
+    margin-top: -.8rem;
+    margin-right: 1rem;
+}
+
+#nav-img {
+    width: 3rem;
+    margin: 0 1rem;
+}
+
+#nav-title {
+    margin-top: .5rem;
+}
